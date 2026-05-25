@@ -1,4 +1,4 @@
-# Toastmasters Web — Project Overview
+# toastmasters-vpe
 
 Single-page React app for running a Toastmasters club: members, pathways (Toastmasters education track), meetings, role assignments, attendance, mentorships, change history, and data export.
 

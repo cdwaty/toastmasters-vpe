@@ -1,4 +1,4 @@
-# CLAUDE.md — toastmasters-web
+# toastmasters-vpe
 
 Contributor cheat-sheet for AI sessions. Deep dive: [PROJECT_OVERVIEW.md](PROJECT_OVERVIEW.md).
 
