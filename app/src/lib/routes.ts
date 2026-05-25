@@ -1,0 +1,18 @@
+export const routes = {
+  home: '/',
+  login: '/login',
+  forgotPassword: '/forgot-password',
+  resetPassword: '/reset-password',
+  authCallback: '/auth/callback',
+  members: '/members',
+  membersAdd: '/members/add',
+  membersBulk: '/members/bulk',
+  memberDetail: (id: string) => `/members/${id}`,
+  meetings: '/meetings',
+  meetingsNew: '/meetings/new',
+  meetingDetail: (id: string) => `/meetings/${id}`,
+  meetingEdit: (id: string) => `/meetings/${id}/edit`,
+  exportData: '/data/export',
+  reports: '/reports',
+  admin: '/admin',
+} as const;
